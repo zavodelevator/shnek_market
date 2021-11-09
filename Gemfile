@@ -44,6 +44,10 @@ end
 group :test do
   gem 'capybara', '>= 3.26'
   gem 'webdrivers'
+  gem 'shoulda-matchers'
+  gem 'db-query-matchers'
+  gem 'json_spec'
+  gem 'launchy'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

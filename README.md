@@ -3,6 +3,9 @@
 finisd 13:59 lasson 3
 $ rspec spec/requests/main_spec.rb
 
+finisd 20:22 lasson 3.2
+$ rspec spec/requests/main_spec.rb
+
 
 
 
